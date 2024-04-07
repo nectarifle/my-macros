@@ -14,7 +14,7 @@
 -------------------------------------------------------------------------------------------------------------------------------
 
 ### Sol's RNG
-<a href='https://www.roblox.com/games/15532962292/Sols-RNG' target="_blank"><img alt='Roblox' src='https://img.shields.io/badge/Last_Updated: ERA 6-100000?style=plastic&logo=Roblox&logoColor=white&labelColor=black&color=black'/></a> <a href='https://www.roblox.com/games/15532962292/Sols-RNG' target="_blank"><img alt='Roblox' src='https://img.shields.io/badge/Status:_BROKEN-100000?style=plastic&logo=Roblox&logoColor=white&labelColor=EE1414&color=EE1414'/></a>
+<a href='https://www.roblox.com/games/15532962292/Sols-RNG' target="_blank"><img alt='Roblox' src='https://img.shields.io/badge/Last_Updated: ERA 6-100000?style=plastic&logo=Roblox&logoColor=white&labelColor=black&color=black'/></a> <a href='https://www.roblox.com/games/15532962292/Sols-RNG' target="_blank"><img alt='Roblox' src='https://img.shields.io/badge/Status:_Heavily_Undertested-100000?style=plastic&logo=Roblox&logoColor=white&labelColor=EE1414&color=EE1414'/></a>
 
 [<img src="https://tr.rbxcdn.com/ee46ed8b2462cc41555f95f7b64155b9/500/280/Image/Jpeg">](https://www.roblox.com/games/15532962292/Sols-RNG)
 
@@ -23,8 +23,10 @@
 • Anti-AFK method not needed.
 
 1) Upon joining a server your camera should be diagonally facing the roll and highest rarity leaderboards. If so, then proceed, If not, rejoin until successful.
-2) Simply run the macro.
-3) If your camera is moved you will have to rejoin to restart the macro.
+2) Walk off the edge of the map once to respawn in the centre of the spawnpoint.
+3) Simply run the macro.
+
+• If your camera is moved you will have to rejoin to restart the macro.
 
 # Downloads
 ### TinyTask
