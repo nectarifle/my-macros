@@ -14,7 +14,7 @@
 -------------------------------------------------------------------------------------------------------------------------------
 
 ### Sol's RNG
-<a href='https://www.roblox.com/games/15532962292/Sols-RNG' target="_blank"><img alt='Roblox' src='https://img.shields.io/badge/Last_Updated: ERA 6-100000?style=plastic&logo=Roblox&logoColor=white&labelColor=black&color=black'/></a> <a href='https://www.roblox.com/games/15532962292/Sols-RNG' target="_blank"><img alt='Roblox' src='https://img.shields.io/badge/Status:_Heavily_Undertested-100000?style=plastic&logo=Roblox&logoColor=white&labelColor=EE1414&color=EE1414'/></a>
+<a href='https://www.roblox.com/games/15532962292/Sols-RNG' target="_blank"><img alt='roblox' src='https://img.shields.io/badge/Requirements:_Consistent FPS 💀-100000?style=plastic&logo=roblox&logoColor=white&labelColor=293EF7&color=293EF7'/></a> <a href='https://www.roblox.com/games/15532962292/Sols-RNG' target="_blank"><img alt='Roblox' src='https://img.shields.io/badge/Last_Updated: ERA 6-100000?style=plastic&logo=Roblox&logoColor=white&labelColor=black&color=black'/></a> <a href='https://www.roblox.com/games/15532962292/Sols-RNG' target="_blank"><img alt='Roblox' src='https://img.shields.io/badge/Status:_Heavily_Undertested-100000?style=plastic&logo=Roblox&logoColor=white&labelColor=EE1414&color=EE1414'/></a>
 
 [<img src="https://tr.rbxcdn.com/ee46ed8b2462cc41555f95f7b64155b9/500/280/Image/Jpeg">](https://www.roblox.com/games/15532962292/Sols-RNG)
 
